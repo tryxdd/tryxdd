@@ -36,3 +36,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tryxdd&show_icons=true&locale=en" alt="tryxdd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tryxdd&" alt="tryxdd" /></p>
+
+
+![snake gif](https://github.com/tryxdd/tryxdd/blob/output/github-contribution-grid-snake.gif)
